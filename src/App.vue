@@ -8,12 +8,12 @@
   <main class="px-8 py-4">
     <p class="mb-2">Filtrar flashcards:</p>
     <div class="grid grid-cols-2 gap-2 mb-2">
-      <input type="text" placeholder="Todos os flashcards" class="bg-slate-200 p-1 rounded text-[12px]">
-      <input type="text" placeholder="Matérias" class="bg-slate-200 p-1 rounded text-[12px]">
-      <input type="text" placeholder="Conteúdos" class="bg-slate-200 p-1 rounded text-[12px]">
-      <input type="text" placeholder="Tópico específico 1" class="bg-slate-200 p-1 rounded text-[12px]">
-      <input type="text" placeholder="Tópico específico 2" class="bg-slate-200 p-1 rounded text-[12px]">
-      <button class="bg-red-600 text-white p-1 rounded font-bold">Limpar filtros</button>
+      <input type="text" placeholder="Todos os flashcards" class="bg-slate-200 p-1 rounded text-[12px] h-8">
+      <input type="text" placeholder="Matérias" class="bg-slate-200 p-1 rounded text-[12px] h-8">
+      <input type="text" placeholder="Conteúdos" class="bg-slate-200 p-1 rounded text-[12px] h-8">
+      <input type="text" placeholder="Tópico específico 1" class="bg-slate-200 p-1 rounded text-[12px] h-8">
+      <input type="text" placeholder="Tópico específico 2" class="bg-slate-200 p-1 rounded text-[12px] h-8">
+      <button class="bg-red-600 text-white p-1 rounded font-bold h-8">Limpar filtros</button>
     </div>
 
     <div class="flex gap-1 flex-wrap mb-8">
